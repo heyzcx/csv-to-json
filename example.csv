@@ -1,0 +1,4 @@
+name,age,city,subscribed
+Alice,30,New York,true
+Bob,25,San Francisco,false
+Carol,,London,true
